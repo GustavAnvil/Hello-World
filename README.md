@@ -8,9 +8,11 @@ I am also new to programming, with a very basic command of C and a less-than-bas
 With creating this account, I hope to both improve my skills at using Git and GitHub in the short term, and to improve my programming skills in the long run.
 
 ---
-`#include <stdio.h>`
-`int main()`
-`  {`
-`    print("Hello, World!\n");`
-`    return 0;`
-`  }`
+```
+#include <stdio.h>
+int main()
+  {
+    print("Hello, World!\n");
+    return 0;
+  }
+```
